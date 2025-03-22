@@ -2,4 +2,6 @@
 
 Hack Arizona 2025 🚀
 
-![Alt Text](tucson.jpg)
+Tucson
+
+![Tucson](tucson.jpg)
